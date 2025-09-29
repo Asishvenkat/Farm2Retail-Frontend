@@ -1,6 +1,6 @@
 import axios from "axios";
 
-export const BASE_URL = "http://localhost:5000/api/";
+export const BASE_URL = "https://farm2retail-backend.onrender.com/api/";
 
 // Safe token extraction
 let TOKEN = null;
